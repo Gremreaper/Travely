@@ -1,0 +1,10 @@
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Python virtual environment
+langgraph_env3/
+venv/
+__pycache__/
+*.pyc
