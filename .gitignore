@@ -2,6 +2,8 @@
 .env
 .env.*
 !.env.example
+MCP.md
+MCP_Calling_Flow.png
 
 # Python virtual environment
 langgraph_env3/
